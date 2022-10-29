@@ -41,7 +41,7 @@ const LeftSection = () => {
                       style={{ cursor: "pointer" }}
                       className="contact-child-label"
                     >
-                      9550660375
+                      +91 9550660375
                     </label>
                   </a>
                 </div>
@@ -178,8 +178,8 @@ const LeftSection = () => {
             <div className="hobbies-container container-box-left-side">
               <label className="font-12px">Watching movies</label>
               <label className="font-12px">Playing video games</label>
-              <label className="font-12px">Travelling</label>
-              <label className="font-12px">Codewars, Leetcode</label>
+              <label className="font-12px">Traveling</label>
+              <label className="font-12px">Codewars, CSS Battle</label>
             </div>
           </div>
         </div>

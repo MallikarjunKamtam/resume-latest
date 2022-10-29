@@ -17,12 +17,12 @@ const RightSide = () => {
             <label className="right-head">SUMMARY</label>
             <div className="right-head-underline"></div>
             <p className="plain-text">
-              In publishing and graphic design, Lorem ipsum is a placeholder
-              text commonly used to demonstrate the visual form of a document or
-              a typeface without relying on meaningful contentpublishing and
-              graphic design, Lorem ipsum is a placeholder text commonly used to
-              demonstrate the visual form of a document or a typeface without
-              relying on meaningful content
+              Experienced Software developer with expertise in UI design,
+              creating REST API’s, testing and maintenance of software systems.
+              Equipped with diverse and programming skill set. Proficient with
+              different frameworks, cutting edge developing tools and
+              procedures. Able to effectively manage during independent
+              projects, as well as collaborate as a part of productive team.
             </p>
           </div>
         </div>{" "}
@@ -42,41 +42,38 @@ const RightSide = () => {
               <div className="each-point-container">
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
-                  In publishing and graphic design, Lorem ipsum is a placeholder
-                  text commonly used to demonstrateng and graphic design, Lorem
-                  ipsumn publishing
+                  Building stable and maintainable codebase using Next JS,
+                  Tailwind, SCSS, HTML in front end and Nest JS, PostgreSQL,
+                  MongoDB at backend
                 </p>
               </div>{" "}
               <div className="each-point-container">
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
-                  In publishing and graphic design, Lorem ipsum is a placeholder
-                  text commonly used to demonstrateng and graphic design, Lorem
-                  ipsumn publishing
+                  Collaborating with team mates to find the best solutions and
+                  deliver good quality code by following agile methodology,
+                  attending daily scrum meetings
                 </p>
               </div>{" "}
               <div className="each-point-container">
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
-                  In publishing and graphic design, Lorem ipsum is a placeholder
-                  text commonly used to demonstrateng and graphic design, Lorem
-                  ipsumn publishing
+                  Performed bug fixes and code reviews
                 </p>
               </div>{" "}
               <div className="each-point-container">
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
-                  In publishing and graphic design, Lorem ipsum is a placeholder
-                  text commonly used to demonstrateng and graphic design, Lorem
-                  ipsumn publishing
+                  Created custom and flexible common components from different
+                  sources and created a collection in React Storybook.
                 </p>
               </div>{" "}
               <div className="each-point-container">
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
-                  In publishing and graphic design, Lorem ipsum is a placeholder
-                  text commonly used to demonstrateng and graphic design, Lorem
-                  ipsumn publishing
+                  Had frequent discussions with Product owner, technical
+                  managers, Co-founders of the organization to understand
+                  business requirements and match the thought process of design.
                 </p>
               </div>
             </div>
@@ -97,36 +94,33 @@ const RightSide = () => {
               <div className="each-point-container">
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
-                  In publishing and graphic design, Lorem ipsum is a placeholder
-                  text commonly used to demonstrateng and graphic design, Lorem
-                  ipsumn publishing
+                  Developed commonly used components in the projects, made sure
+                  to have them used in diverse places with more properties and
+                  flexibility.
                 </p>
               </div>
               <div className="each-point-container">
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
-                  In publishing and graphic design, Lorem ipsum is a placeholder
-                  text commonly used
+                  Addressed and fixed complex bugs.
                 </p>
-              </div>{" "}
+              </div>
               <div className="each-point-container">
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
-                  In publishing and graphic design, Lorem ipsum is a placeholder
-                  text commonly used to demonstrateng
+                  Performed quality analysis of web applications with wide range
+                  of techniques and methodologies
                 </p>
-              </div>{" "}
+              </div>
               <div className="each-point-container">
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
-                  In publishing and graphic design, Lorem ipsum is a placeholder
-                  text commonly used to demonstrateng and graphic design, Lorem
-                  ipsumn publishing
+                  Received two awards as a recognition for dedicated hard work.
                 </p>
               </div>
             </div>
           </div>
-        </div>{" "}
+        </div>
         <div className="right-section-1">
           <div className="">
             <label className="right-head">EDUCATION</label>
