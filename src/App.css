@@ -1,0 +1,25 @@
+.app-main-container {
+  width: 1200px;
+  height: 1697.24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-main {
+  background-color: #16213e;
+  width: 30%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+  color: white;
+  padding-top: 60px;
+}
+
+.right-main {
+  width: 70%;
+  height: 100%;
+}

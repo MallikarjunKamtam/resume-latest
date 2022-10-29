@@ -1,0 +1,138 @@
+.overall-container {
+  width: 1200px;
+  height: 1697.24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: 600;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: 2px solid white;
+}
+
+.contact-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.contact-head {
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.contact-child-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills-grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 20px;
+}
+
+.skill-child-label {
+  font-weight: 600;
+}
+
+.languages-container,
+.hobbies-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  justify-content: center;
+}
+
+.left-section-hidden {
+  display: hidden;
+}
+
+.skill-category {
+  font-size: 18px;
+  font-weight: 700px;
+  float: left;
+  margin: 20px;
+}
+
+.skill-overall-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.skill-overall-container,
+.container-box-left-side {
+  box-shadow: 2px 2px 10px #0f172b;
+  margin: 5px;
+  padding: 20px;
+  border-radius: 20px;
+  width: 300px;
+}
+
+.container-box-left-side {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
+  justify-content: center;
+}
+
+.each-language-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.language-bar {
+  width: 100px;
+  height: 3px;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+
+.language-bar-eng {
+  width: 70px;
+  background-color: aliceblue;
+  height: 3px;
+}
+
+.language-bar-hin {
+  width: 85px;
+  background-color: aliceblue;
+  height: 3px;
+}
+.language-bar-tel {
+  width: 96px;
+  background-color: aliceblue;
+  height: 3px;
+}
+.language-bar-fr {
+  width: 30px;
+  background-color: aliceblue;
+  height: 3px;
+}
