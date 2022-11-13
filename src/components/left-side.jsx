@@ -133,7 +133,6 @@ const LeftSection = () => {
                 <label className="skill-child-label">Express JS</label>
                 <label className="skill-child-label">Mongo DB</label>
                 <label className="skill-child-label">PostgreSQL</label>
-                <label className="skill-child-label">SQL</label>
               </div>
             </div>
             <div className="skill-overall-container other">

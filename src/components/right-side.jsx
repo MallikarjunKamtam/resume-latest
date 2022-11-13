@@ -7,9 +7,7 @@ const RightSide = () => {
       <div className="name-main">
         <label className="mallikarjun-kamtam">MALLIKARJUN KAMTAM</label>
         <div className="underline-mallikarjun"></div>
-        <label className="full-stack-web-developer">
-          Full stack web developer
-        </label>
+        <label className="full-stack-web-developer">Front end developer</label>
       </div>
       <div className="right-all-sections">
         <div className="right-section-1">
