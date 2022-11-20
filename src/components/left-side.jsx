@@ -123,10 +123,11 @@ const LeftSection = () => {
                   <label className="skill-child-label">Bootstrap</label>
                   <label className="skill-child-label">HTML 5</label>
                   <label className="skill-child-label">CSS</label>
+                  <label className="skill-child-label">Jest, RTL</label>
                 </div>
               </div>
             </div>
-            <div className="skill-overall-container">
+            {/* <div className="skill-overall-container">
               <div className="skills-grid-container">
                 <label className="skill-child-label">Node JS</label>
                 <label className="skill-child-label">Nest JS</label>
@@ -134,7 +135,7 @@ const LeftSection = () => {
                 <label className="skill-child-label">Mongo DB</label>
                 <label className="skill-child-label">PostgreSQL</label>
               </div>
-            </div>
+            </div> */}
             <div className="skill-overall-container other">
               <div className="skills-grid-container">
                 <label className="skill-child-label">GIT</label>
@@ -178,7 +179,7 @@ const LeftSection = () => {
               <label className="font-12px">Watching movies</label>
               <label className="font-12px">Playing video games</label>
               <label className="font-12px">Traveling</label>
-              <label className="font-12px">Codewars, CSS Battle</label>
+              <label className="font-12px">Codewars, Leetcode</label>
             </div>
           </div>
         </div>

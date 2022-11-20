@@ -15,12 +15,12 @@ const RightSide = () => {
             <label className="right-head">SUMMARY</label>
             <div className="right-head-underline"></div>
             <p className="plain-text">
-              Experienced Software developer with expertise in UI design,
-              creating REST API’s, testing and maintenance of software systems.
-              Equipped with diverse and programming skill set. Proficient with
-              different frameworks, cutting edge developing tools and
-              procedures. Able to effectively manage during independent
-              projects, as well as collaborate as a part of productive team.
+              Experienced Software developer with expertise in UI development,
+              testing and maintenance of software systems. Equipped with diverse
+              and programming skill set. Proficient with different frameworks,
+              cutting edge developing tools and procedures. Able to effectively
+              manage during independent projects, as well as collaborate as a
+              part of productive team.
             </p>
           </div>
         </div>{" "}
@@ -41,8 +41,7 @@ const RightSide = () => {
                 <div className="points-dot"></div>
                 <p className="plain-text expriance-points">
                   Building stable and maintainable codebase using Next JS,
-                  Tailwind, SCSS, HTML in front end and Nest JS, PostgreSQL,
-                  MongoDB at backend
+                  Typescript, Tailwind, SCSS, HTML.
                 </p>
               </div>{" "}
               <div className="each-point-container">
@@ -51,6 +50,13 @@ const RightSide = () => {
                   Collaborating with team mates to find the best solutions and
                   deliver good quality code by following agile methodology,
                   attending daily scrum meetings
+                </p>
+              </div>{" "}
+              <div className="each-point-container">
+                <div className="points-dot"></div>
+                <p className="plain-text expriance-points">
+                  Used storybook for maintaining common components, Formik and
+                  Yup for form validations, Redux toolkit for state management.
                 </p>
               </div>{" "}
               <div className="each-point-container">
@@ -95,6 +101,13 @@ const RightSide = () => {
                   Developed commonly used components in the projects, made sure
                   to have them used in diverse places with more properties and
                   flexibility.
+                </p>
+              </div>{" "}
+              <div className="each-point-container">
+                <div className="points-dot"></div>
+                <p className="plain-text expriance-points">
+                  Followed agile methodologies, sprint model, used Jira for
+                  tracking the stories of features and fixes.
                 </p>
               </div>
               <div className="each-point-container">
